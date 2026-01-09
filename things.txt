@@ -10,11 +10,27 @@ Infrastructure:
         Lipids: Long-term energy storage.
         Vitamins: Cofactors for enzymatic reactions.   
     Energy: 
-        Electricity (+ electric wire, + Battery): General energy. Electric wire for transmission, Battery for storage.
+        Electricity (+ Electric wire, + Battery): General energy. Electric wire for transmission, Battery for storage.
         Oil: Fuel for combustion engines.
     Information, Communication: 
         Computer, Mobile Phone: Transmit, Process and Reserve information.
         Light: Produce visual information surrounding environment.
+Medical: 
+    Hygiene: 
+        CH3(CH2)16COONa, Towel: Clean body.
+        Toothbrush, Toothpaste (Friction Agent, NaF): Clean teeth.
+    Drugs:
+        Ethanol CH3CH2OH: Disinfect.
+        KMnO4, I2, H2O2: Kill germs, Disinfect.
+        Ibuprofen, Acetaminophen: Painkiller.
+        Erythromycin, Amoxicillin, Penicillin, Cephalosporin, Quinols: Kill bacteria, Anti-inflammatory.
+    Operation: 
+        Face mask, Nitrile gloves: Protection.
+        Tweezers, Scalpel: Cut / Hold tissue.
+        Syringe: Inject / Extract fluid.
+    Hemostasis: 
+        Bandage: Stop bleeding.
+        Cotton wool: Absorb blood.
 Cooking: 
     Temperature: 
         Induction Cooker: Heat food using electromagnetic fields.
@@ -34,21 +50,6 @@ Cooking:
     Material: 
         Acetic Acid CH3COOH: Flavoring.
         Sodium Glutamate COOH(CH2)2-CH(NH2)COONa: Flavoring.
-Medical: 
-    Hygiene: 
-        CH3(CH2)16COONa, Towel: Clean body.
-        Toothbrush, Toothpaste (Friction Agent, NaF): Clean teeth.
-    Drugs:
-        Ethanol C2H6O, KMnO4, I2, H2O2: Kill germs, Disinfect.
-        Ibuprofen, Acetaminophen: Painkiller.
-        Erythromycin, Amoxicillin, Penicillin, Cephalosporin, Quinols: Kill bacteria, Anti-inflammatory.
-    Operation: 
-        Face mask, Nitrile gloves: Protection.
-        Tweezers, Scalpel: Cut / Hold tissue.
-        Syringe: Inject / Extract fluid.
-    Hemostasis: 
-        Bandage: Stop bleeding.
-        Cotton wool: Absorb blood.
 Textile: 
     Overnight: 
         Bed: Support body during sleep.
@@ -88,7 +89,7 @@ Work:
 Base:
     Water H2O: Basic solvent.
     Oil: Basic solvent.
-    Alcohol C2H6O: Basic solvent.
+    Alcohol CH3CH2OH: Basic solvent.
     Salt NaCl: Salty.
     Sucrose C12H22O11: Sweet.
     Vinegar CH3COOH: Sour.
@@ -97,11 +98,15 @@ Food:
     Meat (Beef, Pork, Chicken, Fish)
     Eggs
     Milk
-    Wheat Flour
-    Rice
-    Bread
-    Orange
     Potato
+    Carbohydrate:
+        Wheat Flour
+        Noodles
+        Bread
+        Rice
+    Fruit:
+        Orange
+        Banana
 Condiment: 
     Pepper
     Garlic
