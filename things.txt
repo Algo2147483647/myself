@@ -1,3 +1,5 @@
+# Basic Things
+
 Infrastructure: 
     Material: 
         Oxygen O2: Respiration. 
@@ -8,12 +10,11 @@ Infrastructure:
         Lipids: Long-term energy storage.
         Vitamins: Cofactors for enzymatic reactions.   
     Energy: 
-        Electricity: General energy.
-        Battery: Reserve energy.
+        Electricity (+ electric wire, + Battery): General energy. Electric wire for transmission, Battery for storage.
         Oil: Fuel for combustion engines.
     Information, Communication: 
-        Computer, Mobile Phone: Transmit and process information.
-        Radio Station: Transmit information using electromagnetic fields.
+        Computer, Mobile Phone: Transmit, Process and Reserve information.
+        Light: Produce visual information surrounding environment.
 Cooking: 
     Temperature: 
         Induction Cooker: Heat food using electromagnetic fields.
@@ -26,7 +27,7 @@ Cooking:
     Container:
         Stainless Steel Pressure Cooker (+ Steaming Rack): Cook food by water.
         Stainless Steel Frying Pan (+ Spatula): Cook food by oil.
-        Bowl, Plate, Cup: Hold fo`od / water.
+        Bowl, Plate, Cup: Hold food / water.
     Cleaner: 
         Surfactant, Sponge / Steel Wool: Including Alkylbenzene Sulfonate C6H5SO3R, Sodium Laureth Sulfate CH3(CH2)11(OCH2CH2)nOSO3Na.
     Material: 
@@ -64,6 +65,7 @@ Textile:
         Washing Machine, Washing Powder: Clean clothes.
         Sewing Kit (Needle, Thread): Repair clothes.
 Work: 
+    Desk, Chair: Provide working environment.
     Measure: 
         Clock: Time.
         Ruler: Length.
@@ -78,3 +80,7 @@ Work:
         Currency: Medium of exchange.
         Rope: Binding items.
         Bag: Carry items.
+
+
+# Cooking
+
