@@ -4,7 +4,7 @@ Infrastructure:
     Material: 
         Oxygen O2: Respiration. 
         Water H2O: Hydration.
-        NaCl: Electrolyte balance.
+        Salt NaCl: Electrolyte balance.
         Glucose C6H12O6 (Sucrose C12H22O11): Energy source.
         Proteins NH2-CHR-COOH: Enzymes, Structural components.
         Lipids: Long-term energy storage.
@@ -21,9 +21,10 @@ Cooking:
         Micro-wave Oven: Heat food using micro-waves.
         Refrigerator: Cold food using vapor-compression refrigeration cycle.
     Tool: 
-        Spoon: Pick up small pieces of objects.
         Knife (+ Cutting Board): Cut large objects into smaller pieces.
-        Fork, Chopsticks: Pick up linear objects.
+        Spoon: Pick up small pieces of objects.
+        Fork / Chopsticks: Pick up linear objects.
+        Grinder: Grind solid objects into smaller powder.
     Container:
         Stainless Steel Pressure Cooker (+ Steaming Rack): Cook food by water.
         Stainless Steel Frying Pan (+ Spatula): Cook food by oil.
@@ -84,3 +85,42 @@ Work:
 
 # Cooking
 
+Base:
+    Water H2O: Basic solvent.
+    Oil: Basic solvent.
+    Alcohol C2H6O: Basic solvent.
+    Salt NaCl: Salty.
+    Sucrose C12H22O11: Sweet.
+    Vinegar CH3COOH: Sour.
+    Sodium Glutamate COOH(CH2)2-CH(NH2)COONa: Umami.
+Food:
+    Meat (Beef, Pork, Chicken, Fish)
+    Eggs
+    Milk
+    Wheat Flour
+    Rice
+    Bread
+    Orange
+    Potato
+Condiment: 
+    Pepper
+    Garlic
+    Ginger
+    Scallion
+    Onion
+    Coriander
+    Rosemary
+    Parsley
+Dried spices:
+    Black Pepper
+    Cumin
+    Cinnamon
+    Basil
+    Thyme
+Sauce:
+    Hot Sauce
+    Tomato Sauce
+    Mustard
+    Soy Sauce
+    Butter
+    Olive oil
