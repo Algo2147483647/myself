@@ -83,6 +83,69 @@ Work:
         Rope: Binding items.
         Bag: Carry items.
 
+# 7 Day Survival Backpack
+
+Life Material: 
+    Water H2O (+ Water Purifier[150g]) [3000ml]: Hydration.
+    Salt NaCl [10g]: Electrolyte balance.
+    Sucrose C12H22O11 [800g]: Energy source.
+    Proteins NH2-CHR-COOH [250g]: Enzymes, Structural components.
+    Edible Oil [250g]: Long-term energy storage.
+    Vitamins [5g]: Cofactors for enzymatic reactions.   
+Information, Communication: 
+    Computer [~1500g], Mobile Phone [~200g]: Transmit, Process and Reserve information.
+    Light [~150g]: Produce visual information surrounding environment.
+Medical [~800g]: 
+    Hygiene: 
+        CH3(CH2)16COONa, Towel: Clean body.
+        Toothbrush, Toothpaste (Friction Agent, NaF): Clean teeth.
+    Drugs:
+        Ethanol CH3CH2OH [500ml]: Disinfect.
+        Ibuprofen, Acetaminophen: Painkiller.
+        Erythromycin, Amoxicillin, Penicillin, Cephalosporin, Quinols: Kill bacteria, Anti-inflammatory.
+    Operation: 
+        Face mask, Nitrile gloves: Protection.
+        Tweezers, Scalpel: Cut / Hold tissue.
+        Syringe: Inject / Extract fluid.
+    Hemostasis: 
+        Bandage: Stop bleeding.
+        Cotton wool: Absorb blood.
+Cooking: 
+    Tool: 
+        Knife [~100g]: Cut large objects into smaller pieces.
+        Spoon [~50g]: Pick up small pieces of objects.
+    Container:
+        Bowl [~100g], Cup[~100g]: Hold food / water.
+Textile: 
+    Overnight: 
+        Tent [2000g]: Support space during sleep.
+        Mattress [400g]: Provide comfortable surface.
+        Sleeping Bag [500g]: Keep body warm.
+    Clothes: 
+        Shirt, Pants [800g x 2]: Base layer, Cover body.
+        Socks, Gloves, Shoes: Cover feet and hands.
+        Hat: Cover head.
+        Glasses: Protect eyes.
+        Thermal Clothing: Retain body heat.
+        Raincoat [350g]: Protect from rain.
+    Clean: 
+        Washing Powder: Clean clothes.
+        Sewing Kit (Needle, Thread): Repair clothes.
+Work: 
+    Measure: 
+        Clock: Time.
+        Ruler: Length.
+        Scale: Weight.
+        Thermometer: Temperature.
+    Stationery: 
+        Paper, Pen: Writing.
+        Scissors: Cutting.
+        Tape: Binding.
+    Miscellaneous Items: 
+        ID Card, Documents: Important personal identification. 
+        Currency: Medium of exchange.
+        Rope: Binding items.
+        Bag: Carry items.
 
 # Cooking
 
