@@ -11,7 +11,7 @@ Infrastructure:
         Vitamins: Cofactors for enzymatic reactions.   
     Energy: 
         Electricity (+ Electric wire, + Battery): General energy. Electric wire for transmission, Battery for storage.
-        Oil: Fuel for combustion engines.
+        Oil, Gas: Energy is stored in the form of chemical energy and released through redox reactions.
     Information, Communication: 
         Computer, Mobile Phone: Transmit, Process and Reserve information.
         Light: Produce visual information surrounding environment.
@@ -122,11 +122,12 @@ Textile:
         Mattress [400g]: Provide comfortable surface.
         Sleeping Bag [500g]: Keep body warm.
     Clothes: 
-        Shirt, Pants [800g x 2]: Base layer, Cover body.
-        Socks, Gloves, Shoes: Cover feet and hands.
-        Hat: Cover head.
+        Quick Drying Shirt & Pants [800g x2]: Base layer, Cover body.
+        Windproof Jacket & Pants [600g]: Outer layer, Wind protection.
+        Fleece / Down-filled Jacket [400g]: Insulation layer, Retain body heat.
+        Socks, Gloves, Hat: Cover feet, hands, head.
+        Shoes [1000g x2]: Help to walk.
         Glasses: Protect eyes.
-        Thermal Clothing: Retain body heat.
         Raincoat [350g]: Protect from rain.
     Clean: 
         Washing Powder: Clean clothes.
